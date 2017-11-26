@@ -7,5 +7,7 @@ public class Dugu9jian {
 		System.out.println("Hello dugu9jian");
 		System.out.println("Hello dugu9jian");
 		System.out.println("Hello dugu9jian");
+
+		System.out.println("Hello dugu9jian");
 	}
 }
